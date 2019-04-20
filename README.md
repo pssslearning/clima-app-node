@@ -7,7 +7,7 @@ Curso de Udemy
 Rest, despliegues, heroku, mlab, git, github, sockets, subida de archivos, jwt y mucho más para ser un experto en Node
 Created by `Fernando Herrera`
 
-### Ejemplo de la sección 6 `Section 5: Aplicación de Clima`
+### Ejemplo de la `Section 6 - Aplicación del Clima - GeoLocation + Open Weather`
 
 Nota: recuérdese ejecutar
 ```sh
