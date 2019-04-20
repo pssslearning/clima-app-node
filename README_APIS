@@ -1,0 +1,15 @@
+https://rapidapi.com/dev132/api/city-geo-location-lookup
+
+Usuario Rapid APIs: pssslearning
+
+unirest.get("https://devru-latitude-longitude-find-v1.p.rapidapi.com/latlon.php?location=New+York")
+.header("X-RapidAPI-Host", "devru-latitude-longitude-find-v1.p.rapidapi.com")
+.header("X-RapidAPI-Key", "56c10122a1msh2f0d51520ec3252p115e03jsn168d2b95cc14")
+.end(function (result) {
+  console.log(result.status, result.headers, result.body);
+});
+
+
+https://api.openweathermap.org/data/2.5/weather?lat=40.349998&lon=-3.820000&appid=a324ca55e90c9aa8f822c4190aeff640&lang=es&units=metric
+
+Open weather Map
